@@ -1,0 +1,6 @@
+[rrayst-repo]
+name=rrayst's Repo
+baseurl=https://rrayst.github.io/rpm/packages
+enabled=1
+gpgcheck=1
+gpgkey=https://rrayst.github.io/rpm/pgp-key.public
